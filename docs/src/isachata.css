@@ -20,12 +20,12 @@ body {
 }
 
 .container img {
-    width: 500px;
-    height: 700px;
+    width: 360px;
+    height: 520px;
 }
 .container img.changed {
-    width: 540px;
-    height: 800px;
+    width: 250px;
+    height: 450px;
 }
 @media screen and (min-width: 800px) and (max-width: 1300px) {
     body {
@@ -46,11 +46,11 @@ body {
     }
 
     .container img {
-        width: 500px;
-        height: 700px;
+        width: 360px;
+        height: 520px;
     }
     .container img.changed {
-        width: 540px;
-        height: 900px;
+        width: 250px;
+        height: 450px;
     }
 }
